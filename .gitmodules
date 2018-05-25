@@ -14,3 +14,7 @@
 	path = rrhh
 	url = git@github.com:rocketgithub/rrhh
 	branch = 10.0
+[submodule "pos_gt"]
+	path = pos_gt
+	url = git@github.com:rocketgithub/pos_gt
+	branch = 11.0
