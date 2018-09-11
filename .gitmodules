@@ -27,4 +27,4 @@
 	url = git@github.com:rocketgithub/gface_cofidi.git
 [submodule "pedidos_tienda"]
 	path = pedidos_tienda
-	url = git@github.com:rocketgithub/pedidos_tienda.git
+	url = git@github.com:jeff93leo/pedidos_tienda.git
