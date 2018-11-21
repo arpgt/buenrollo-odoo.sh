@@ -28,3 +28,6 @@
 [submodule "pedidos_tienda"]
 	path = pedidos_tienda
 	url = git@github.com:rocketgithub/pedidos_tienda.git
+[submodule "pos_guardar"]
+	path = pos_guardar
+	url = git@github.com:rocketgithub/pos_guardar.git
