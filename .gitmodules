@@ -35,3 +35,7 @@
 	path = pos_sat
 	url = https://github.com/rocketgithub/pos_sat.git
 	branch = 10.0
+[submodule "asistelibros"]
+	path = asistelibros
+	url = https://github.com/rocketgithub/asistelibros.git
+	branch = 11.0
