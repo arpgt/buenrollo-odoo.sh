@@ -46,3 +46,11 @@
 	path = kardex
 	url = https://github.com/rocketgithub/kardex.git
 	branch = 11.0
+[submodule "albaran_analitico"]
+	path = albaran_analitico
+	url = https://github.com/rocketgithub/albaran_analitico.git
+	branch = 10.0
+[submodule "pos_gface"]
+	path = pos_gface
+	url = https://github.com/rocketgithub/pos_gface.git
+	branch = 11.0
