@@ -54,3 +54,6 @@
 	path = pos_gface
 	url = https://github.com/rocketgithub/pos_gface.git
 	branch = 11.0
+[submodule "pos_masivo"]
+	path = pos_masivo
+	url = https://github.com/rocketgithub/pos_masivo.git
